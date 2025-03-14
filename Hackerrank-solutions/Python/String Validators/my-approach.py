@@ -1,7 +1,7 @@
 s = input()
 
 if any(char.isalnum() for char in s):
-        print('True')
+    print('True')
         
 else:
     print('False')
