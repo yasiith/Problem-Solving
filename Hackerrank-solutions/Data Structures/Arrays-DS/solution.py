@@ -5,5 +5,5 @@ n = int ( input() )
 
 arr = list(map(int, input().split()))
 
-reversed_arr = reverseArray(arr)
+reversed_arr = reversedArray(arr)
 print(*reversed_arr)
